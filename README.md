@@ -5,18 +5,28 @@ This project predicts customer churn using machine learning. Churn prediction he
 We preprocess the dataset, train a neural network using TensorFlow, and evaluate its performance.
 
 📂 Project Structure
+
 Churn_Prediction/
+
 │-- data/               # Dataset files
+
 │-- churn_model.py      # Model training script
+
 │-- requirements.txt    # Project dependencies
+
 │-- README.md           # Project documentation
 
 🚀 Features
 Data preprocessing with Pandas & NumPy
+
 Feature scaling using StandardScaler
+
 Neural network built with TensorFlow Keras
+
 Performance evaluation using accuracy score
+
 Visualization with Matplotlib & Seaborn
+
 
 📊 Dataset
 The dataset contains customer details such as:
